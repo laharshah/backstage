@@ -1,5 +1,57 @@
 # example-backend
 
+## 0.2.83-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.18.3-next.3
+  - example-app@0.2.83-next.3
+  - @backstage/backend-common@0.18.5-next.2
+  - @backstage/backend-tasks@0.5.2-next.2
+  - @backstage/catalog-client@1.4.1
+  - @backstage/catalog-model@1.3.0
+  - @backstage/config@1.0.7
+  - @backstage/integration@1.4.5-next.0
+  - @backstage/plugin-adr-backend@0.3.3-next.2
+  - @backstage/plugin-app-backend@0.3.45-next.2
+  - @backstage/plugin-auth-node@0.2.14-next.2
+  - @backstage/plugin-azure-devops-backend@0.3.24-next.2
+  - @backstage/plugin-azure-sites-backend@0.1.7-next.2
+  - @backstage/plugin-badges-backend@0.2.0-next.3
+  - @backstage/plugin-catalog-backend@1.9.1-next.3
+  - @backstage/plugin-catalog-node@1.3.6-next.2
+  - @backstage/plugin-code-coverage-backend@0.2.11-next.2
+  - @backstage/plugin-devtools-backend@0.1.0-next.1
+  - @backstage/plugin-entity-feedback-backend@0.1.3-next.2
+  - @backstage/plugin-events-backend@0.2.6-next.2
+  - @backstage/plugin-events-node@0.2.6-next.2
+  - @backstage/plugin-explore-backend@0.0.7-next.2
+  - @backstage/plugin-graphql-backend@0.1.35-next.2
+  - @backstage/plugin-jenkins-backend@0.1.35-next.2
+  - @backstage/plugin-kafka-backend@0.2.38-next.2
+  - @backstage/plugin-kubernetes-backend@0.11.0-next.3
+  - @backstage/plugin-lighthouse-backend@0.2.1-next.2
+  - @backstage/plugin-linguist-backend@0.2.2-next.2
+  - @backstage/plugin-permission-backend@0.5.20-next.2
+  - @backstage/plugin-permission-common@0.7.5
+  - @backstage/plugin-permission-node@0.7.8-next.2
+  - @backstage/plugin-playlist-backend@0.3.1-next.2
+  - @backstage/plugin-proxy-backend@0.2.39-next.2
+  - @backstage/plugin-rollbar-backend@0.1.42-next.2
+  - @backstage/plugin-scaffolder-backend@1.13.2-next.3
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.14-next.3
+  - @backstage/plugin-search-backend@1.3.1-next.3
+  - @backstage/plugin-search-backend-module-elasticsearch@1.3.0-next.3
+  - @backstage/plugin-search-backend-module-pg@0.5.6-next.2
+  - @backstage/plugin-search-backend-node@1.2.1-next.2
+  - @backstage/plugin-search-common@1.2.3
+  - @backstage/plugin-tech-insights-backend@0.5.11-next.2
+  - @backstage/plugin-tech-insights-backend-module-jsonfc@0.1.29-next.2
+  - @backstage/plugin-tech-insights-node@0.4.3-next.2
+  - @backstage/plugin-techdocs-backend@1.6.2-next.2
+  - @backstage/plugin-todo-backend@0.1.42-next.2
+
 ## 0.2.83-next.2
 
 ### Patch Changes

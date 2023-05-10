@@ -1,5 +1,16 @@
 # @backstage/config-loader
 
+## 1.3.0-next.1
+
+### Patch Changes
+
+- 473db605a4f: Added a new `noUndeclaredProperties` option to `SchemaLoader` to support enforcing that there are no extra keys when verifying config.
+- Updated dependencies
+  - @backstage/cli-common@0.1.12
+  - @backstage/config@1.0.7
+  - @backstage/errors@1.1.5
+  - @backstage/types@1.0.2
+
 ## 1.3.0-next.0
 
 ### Minor Changes
